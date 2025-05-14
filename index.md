@@ -5,27 +5,32 @@ title: LINKS & STUFF
 
 ## Tutorials & Videos
 
-- [vibe coding a personal finance app — complete 3hr walkthrough w/ template repo](https://youtu.be/WYzEROo7reY?si=c5hkEkNBCMBQvyf5)
 
-    ![vibe-code-yt-thumbnail](/assets/vibe-code-walkthrough.png)
+[![vibe-code-yt-thumbnail](/assets/vibe-code-walkthrough.png)](https://youtu.be/WYzEROo7reY?si=c5hkEkNBCMBQvyf5)
+
+[vibe coding a personal finance app — complete 3hr walkthrough w/ template repo](https://youtu.be/WYzEROo7reY?si=c5hkEkNBCMBQvyf5)
 
 ## Repos, Templates & Example Apps
 
-- [OpenSaaS.sh](http://OpenSaaS.sh) — free, open-source, feature-rich, full-stack React + NodeJS template that manages features for you. More than 10k GitHub Stars ⭐️
-    
-    ![open-saas](/assets/open-saas-thumb.png)
-    
+### Open SaaS
 
-- [CoverLetterGPT.xyz](http://CoverLetterGPT.xyz) — open-source cover letter generator & editor app (~$600 MRR)
-    
-    ![cover-letter-gpt](/assets/coverlettergpt-thumb.png)
-    
+[![open-saas](/assets/open-saas-thumb.png)](http://OpenSaaS.sh)
 
-- [Personal Budgeting App](https://github.com/vincanger/envelope-budgeting-test) — repo comes w/ a full set of project-specific cursor rules. built w/ Wasp & Shadcn
-    
-    ![personal-budgeting-app](/assets/finance-app-thumb.png)
-    
+[OpenSaaS.sh](http://OpenSaaS.sh) — free, open-source, feature-rich, full-stack React + NodeJS template that manages features for you. More than 10k GitHub Stars ⭐️    
 
-- [Blog Banner GPT](http://blogbannergpt.xyz) — social media image brainstorm engine and generator
-    
-    ![blog-banner-gpt](/assets/blogbannergpt-thumb.png)
+### Cover Letter GPT
+[![cover-letter-gpt](/assets/coverlettergpt-thumb.png)](http://CoverLetterGPT.xyz)
+
+[CoverLetterGPT.xyz](http://CoverLetterGPT.xyz) — open-source cover letter generator & editor app (~$600 MRR)
+
+### Personal Budgeting App
+
+[![personal-budgeting-app](/assets/finance-app-thumb.png)](https://github.com/vincanger/envelope-budgeting-test)
+
+[Personal Budgeting App](https://github.com/vincanger/envelope-budgeting-test) — repo comes w/ a full set of project-specific cursor rules. built w/ Wasp & Shadcn
+
+### Blog Banner GPT
+
+[![blog-banner-gpt](/assets/blogbannergpt-thumb.png)](http://blogbannergpt.xyz)
+
+[Blog Banner GPT](http://blogbannergpt.xyz) — social media image brainstorm engine and generator
