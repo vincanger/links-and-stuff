@@ -1,4 +1,7 @@
-# EFFECTIVE AF PROMPTS
+---
+layout: default
+title: EFFECTIVE AF PROMPTS
+---
 
 ## For Creating and Improving Rules
 

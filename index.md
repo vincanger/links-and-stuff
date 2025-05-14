@@ -1,4 +1,7 @@
-# Links & Stuff
+---
+layout: default
+title: Links & Stuff
+---
 
 ## Prompts
 
