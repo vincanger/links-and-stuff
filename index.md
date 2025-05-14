@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Links & Stuff
+title: LINKS & STUFF
 ---
-
-## Prompts
-
-- [VERY EFFECTIVE AI-CODING PROMPTS ](/prompts.md)
 
 ## Tutorials & Videos
 
