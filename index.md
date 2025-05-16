@@ -3,8 +3,13 @@ layout: default
 title: LINKS & STUFF
 ---
 
-## Tutorials & Videos
+## Marketing
 
+[![How I built & grew CoverLetterGPT to 1000s of users and $550 MRR](/assets/gpt-wrapper.webp)](https://dev.to/wasp/how-i-built-grew-coverlettergpt-to-5000-users-and-200-mrr-14c3)
+
+[How I built & grew CoverLetterGPT to 1000s of users and $550 MRR](https://dev.to/wasp/how-i-built-grew-coverlettergpt-to-5000-users-and-200-mrr-14c3)
+
+## Tutorials & Videos
 
 [![vibe-code-yt-thumbnail](/assets/vibe-code-walkthrough.png)](https://youtu.be/WYzEROo7reY?si=c5hkEkNBCMBQvyf5)
 
