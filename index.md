@@ -21,7 +21,17 @@ title: LINKS & STUFF
 
 ## Prompt Caching
 
-[How to structure OpenAI API prompts so you pay (and wait) less](./prompt_caching)
+<div class="link-item" style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <a href="./prompt_caching">
+      <img src="./assets/prompt-caching-thumb.png" alt="prompt-caching" style="width: 100%; max-width:300px; height: auto; display: block; border-radius: 4px;"/>
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <h4 style="margin-top:0; margin-bottom: 5px;"><a href="./prompt_caching">How to structure OpenAI API prompts so you pay (and wait) less</a></h4>
+    <p style="font-size: 0.9em; color: #555; margin-top:0;">Practical examples of how to structure prompts to improve cache hits.</p>
+  </div>
+</div>
 
 ## SaaS Marketing
 
