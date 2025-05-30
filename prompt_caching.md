@@ -1,7 +1,9 @@
 ---
 layout: default
-title: How to structure OpenAI API prompts so you pay (and wait) less.
+title: PROMPT CACHING
 ---
+
+# How to structure OpenAI API prompts so you pay (and wait) less.
 
 ### Why prompt caching matters
 | Metric | Without caching | With caching (≥ 1 024 identical tokens) |

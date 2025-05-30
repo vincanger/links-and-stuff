@@ -22,4 +22,4 @@ title: EFFECTIVE AF PROMPTS
 
 ## For General Reasoning
 
-- “Before we continue, think about 3 possible implementation strategies based on my current project and aims. Chose the best strategy of these 3 and give me your rationale for choosing it.”
+- “Before we continue, think about 3-5 possible implementation strategies based on my current project and aims, and reason about their pros and cons. Choose the best strategy and give me your rationale for choosing it.”
