@@ -19,6 +19,10 @@ title: LINKS & STUFF
   }
 </style>
 
+## Prompt Caching
+
+[How to structure OpenAI API prompts so you pay (and wait) less](./prompt_caching)
+
 ## SaaS Marketing
 
 <div class="link-item" style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
